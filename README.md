@@ -1,3 +1,37 @@
+# AIML Department - College Website
+
+This is a frontend website developed for the Artificial Intelligence & Machine Learning (AIML) Department of our college. The website provides information about the department, faculty members, useful resources, social media links, and insights about Artificial Intelligence.
+
+---
+
+## Features ✨
+
+- Homepage with department introduction  
+- Faculty details with designations and contact info  
+- About AI & ML section  
+- Social Media Links & Resources  
+- Responsive Design  
+- Built with React, HTML, CSS  
+
+---
+
+## Tech Stack 🛠️
+
+- React JS  
+- HTML5  
+- CSS3  
+
+---
+
+## Live Demo 🚀
+
+[Click here to view the website](https://yourusername.github.io/your-repo-name/)
+
+---
+
+## Folder Structure 📂
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
