@@ -5,7 +5,7 @@ This is a frontend website developed for the Artificial Intelligence & Machine L
 ---
 
 ## Features ✨
-
+-Frontend Part of the website
 - Homepage with department introduction  
 - Faculty details with designations and contact info  
 - About AI & ML section  
